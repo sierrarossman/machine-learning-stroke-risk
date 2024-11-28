@@ -9,6 +9,9 @@ Features:
 Data Preparation: Cleaning, preprocessing, and feature engineering for stroke-related datasets.
 Exploratory Data Analysis (EDA): Statistical summaries, visualizations, and correlation analysis to uncover key patterns.
 Modeling: Implementation of multiple machine learning models, including decision trees, k-nearest neighbors, clustering, anomaly analysis, association rules, and neural networks.
+
 Evaluation
+
 Interpretation
+
 Code Documentation
