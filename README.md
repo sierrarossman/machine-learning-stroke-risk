@@ -13,8 +13,8 @@ Exploratory Data Analysis (EDA): Statistical summaries, visualizations, and corr
 
 Modeling: Implementation of multiple machine learning models, including decision trees, k-nearest neighbors, clustering, anomaly analysis, association rules, and neural networks.
 
-Evaluation
+Evaluation.
 
-Interpretation
+Interpretation.
 
-Code Documentation
+Code Documentation.
